@@ -49,9 +49,12 @@ streamlit run app.py
 Get your free Groq API key at https://console.groq.com
 
 ## 📁 Project Structure
+
+```
 Smart_Email_Generator/
 ├── app.py               # Streamlit UI
 ├── model.py             # LangChain + Groq model logic
 ├── .env.example         # Environment variables template
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
+```
