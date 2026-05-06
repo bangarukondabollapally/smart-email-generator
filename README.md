@@ -22,20 +22,28 @@ Generate professional emails instantly by just entering the subject and recipien
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
+```bash
 git clone https://github.com/bangarukondabollapally/smart-email-generator.git
 cd smart-email-generator
+```
 
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Create .env file
+```bash
 cp .env.example .env
+```
 
 Add your Groq API key in .env:
 GROQ_API_KEY=your_groq_api_key_here
 
 ### 4. Run the app
+```bash
 streamlit run app.py
+```
 
 ## 🔑 Get Free API Key
 Get your free Groq API key at https://console.groq.com
