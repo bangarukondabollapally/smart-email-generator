@@ -3,6 +3,9 @@
 An AI-powered professional email generator built with **LangChain + Groq + Streamlit**.
 Generate professional emails instantly by just entering the subject and recipient type.
 
+## 🌐 Live Demo
+👉 [Try it live here](https://smart-email-generator.streamlit.app)
+
 ## 🚀 Demo
 ![Smart Email Generator](demo.png)
 
